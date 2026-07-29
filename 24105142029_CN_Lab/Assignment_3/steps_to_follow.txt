@@ -1,0 +1,7 @@
+follow the steps to compile -
+step 1 : change dictory to where server and client code is saved
+step 2 : compile server (gcc server.c -o server)
+step 3 : compile client (gcc client.c -o client)
+step 4 : run server (./server)
+step 5 : open new termin for same dictory then run client (./client)
+step 6 : enter ip address
